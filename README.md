@@ -1,6 +1,8 @@
 # Ola, Mundo!
  **Exemplo repositorio**
  
- Usado no treinamento em *Git e Github*
-
-Nova linha feita via site!
+ Usado para armazenar os meus aprendizados extra universidade!
+ 
+ Cursos feitos até dia 15/04/2021:
+ 1.  Curso de aprendizado em Git, Github e Versionamento
+ 2.  Curso para desenvolvimento em JavaScript
